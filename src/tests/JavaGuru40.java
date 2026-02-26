@@ -27,7 +27,7 @@ public class JavaGuru40 {
         // получить переполнение при арифметической операции
         int g = Integer.MAX_VALUE;
         System.out.println(g);
-        System.out.println(g * 2);
+        System.out.println(g * 3);
     }
 }
 
